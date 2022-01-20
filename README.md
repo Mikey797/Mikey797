@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mihan Menuka
-- 👀 I’m interested in Java/J2EE, Spring Framework, Angular...etc
-- 🌱 I’m currently learning Spring Security 
+- 👀 I’m Experienced in J2EE, Spring Framework and Angular
 
 <!---
 Mikey797/Mikey797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
